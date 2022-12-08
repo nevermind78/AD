@@ -1,6 +1,7 @@
 # Projet Analyse Donné
 # Titanic
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/AD/main?labpath=index.ipynb)
 --------------------------------------------------------
 
 ## Présentation du projet 
